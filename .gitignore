@@ -187,7 +187,7 @@ PublishScripts/
 # NuGet Symbol Packages
 *.snupkg
 # The packages folder can be ignored because of Package Restore
-**/[Pp]ackages/*
+#**/[Pp]ackages/*
 # except build/, which is used as an MSBuild target.
 !**/[Pp]ackages/build/
 # Uncomment if necessary however generally it will be regenerated when needed
@@ -348,3 +348,61 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/ForgeX/Library
+/ForgeX/Temp
+/ForgeX/UserSettings
+/ForgeX/XUMMNetSDK.csproj
+/ForgeX/Xsolla.ThirdParty.Editor.csproj
+/ForgeX/Xsolla.ThirdParty.csproj
+/ForgeX/Xsolla.Editor.csproj
+/ForgeX/Xsolla.Demo.Editor.csproj
+/ForgeX/Xsolla.Demo.csproj
+/ForgeX/Xsolla.csproj
+/ForgeX/where-allocations.csproj
+/ForgeX/UnityEngine.InputSystem.Samples.UIvsGameInput.csproj
+/ForgeX/Unity.XR.Management.Samples.Editor.csproj
+/ForgeX/Unity.XR.Management.Samples.csproj
+/ForgeX/Unity.Mirror.CodeGen.csproj
+/ForgeX/Unity.Localization.Samples.Preloading.csproj
+/ForgeX/Unity.Localization.Samples.PersistentVariables.csproj
+/ForgeX/Unity.Localization.Samples.LocaleMenuUGUI.csproj
+/ForgeX/Unity.InputSystem.Recorder.csproj
+/ForgeX/Unity.InputSystem.RebindingUI.csproj
+/ForgeX/Unity.InputSystem.InGameHints.csproj
+/ForgeX/UIBuilder.Editor.csproj
+/ForgeX/UIBuilder.csproj
+/ForgeX/Timeline.Samples.Video.Editor.csproj
+/ForgeX/Timeline.Samples.Video.csproj
+/ForgeX/Timeline.Samples.Utilities.Editor.csproj
+/ForgeX/Timeline.Samples.Utilities.csproj
+/ForgeX/Timeline.Samples.Tween.Editor.csproj
+/ForgeX/Timeline.Samples.Tween.csproj
+/ForgeX/Timeline.Samples.TimeDilation.csproj
+/ForgeX/Timeline.Samples.Text.Editor.csproj
+/ForgeX/Timeline.Samples.Text.csproj
+/ForgeX/Timeline.Samples.Annotation.Editor.csproj
+/ForgeX/Timeline.Samples.Annotation.csproj
+/ForgeX/Telepathy.csproj
+/ForgeX/steam_appid.txt
+/ForgeX/SimpleWebTransport.csproj
+/ForgeX/SimpleRelay.csproj
+/ForgeX/Samples.GameplaySequence.csproj
+/ForgeX/RelayUTP.csproj
+/ForgeX/Pipeline.csproj
+/ForgeX/Mirror.Examples.csproj
+/ForgeX/Mirror.Editor.csproj
+/ForgeX/Mirror.csproj
+/ForgeX/Mirror.Components.csproj
+/ForgeX/Mirror.CompilerSymbols.csproj
+/ForgeX/Mirror.Authenticators.csproj
+/ForgeX/kcp2k.csproj
+/ForgeX/InputSystem.Samples.Visualizers.csproj
+/ForgeX/Heathen.Steamworks.Examples.csproj
+/ForgeX/Heathen.Steamworks.Editor.csproj
+/ForgeX/Heathen.Steamworks.csproj
+/ForgeX/ForgeX.sln
+/ForgeX/CustomNetworkInterface.csproj
+/ForgeX/ControllerSample.csproj
+/ForgeX/Assembly-CSharp.csproj
+/ForgeX/Assembly-CSharp-Editor.csproj
+/ForgeX/Assets/Mirror

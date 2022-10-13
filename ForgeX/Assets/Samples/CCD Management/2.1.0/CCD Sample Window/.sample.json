@@ -1,0 +1,5 @@
+{
+    "displayName": "CCD Sample Window",
+    "description": "This is an example of how the CCD Management API SDK could be used to manage resources within a desired project",
+    "createSeparatePackage": false
+}
